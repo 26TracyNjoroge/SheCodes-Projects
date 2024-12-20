@@ -11,7 +11,7 @@ Explore the individual folders for more details about each project.
 
 ---
 
-Coded with ❤️ by **Tracy Wangari**
+Coded with ❤️ by [Tracy Wangari](https://github.com/26TracyNjoroge)
 
 
 
