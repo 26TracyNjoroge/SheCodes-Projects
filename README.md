@@ -5,11 +5,11 @@ This repository contains various projects completed in the SheCodes workshop. Ea
 
 ## Projects 
 
-- [SheCodes Weather App](https://shecodes-weather-app-tau.vercel.app/vercel.app/p)
+- [SheCodes Weather App](https://shecodes-weather-app-tau.vercel.app/)
 
 Explore the individual folders for more details about each project.
 
-
+---
 
 Coded with ❤️ by **Tracy Wangari**
 
