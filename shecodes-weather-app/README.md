@@ -21,8 +21,8 @@
 
 ### Project Links
 
-- Github Repository: [Repository](https://github.com/26TracyNjoroge/shecodes-weather-app-project)
-- Live Site URL: [Live Demo](https://shecodes-weather-app-project.vercel.app/)
+- Github Repository: [Repository](https://github.com/26TracyNjoroge/SheCodes-Projects/tree/main/shecodes-weather-app)
+- Live Site URL: [Live Demo](https://shecodes-weather-app-tau.vercel.app/)
 
 ### Developer
 
